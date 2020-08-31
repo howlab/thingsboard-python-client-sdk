@@ -11,7 +11,7 @@ setuptools.setup(
     author='ThingBoard',
     author_email='info@thingsboard.io',
     long_description=long_description,     
-    url='git+https://https://github.com/bodiroga/thingsboard-python-client-sdk',
+    url='git+https://https://github.com/howlab/thingsboard-python-client-sdk',
     keywords = ['MQTT'],  
     packages=setuptools.find_packages(exclude=("examples",)),
     setup_requires=['wheel'],
